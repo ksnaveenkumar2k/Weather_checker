@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+*{
+    font-family: "Josefin Sans";
+    font-weight:700;
+}
+
+body{
+    background-image: url(assets/bc-clearsky.jpg);
+ background-size: cover !important;
+ background-repeat: no-repeat !important;
+ transition: all 1s;
+}
